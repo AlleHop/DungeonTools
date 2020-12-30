@@ -666,7 +666,7 @@ L["Plagueroc"] = "Roca-da-peste"
 --[[Translation missing --]]
 --[[ L["Players can join the live session by either clicking this button or the Live Session chat link"] = ""--]]
 --[[Translation missing --]]
---[[ L["Please report any bugs on https://github.com/Tomslack/ManbabyDungeonTools/issues"] = ""--]]
+--[[ L["Please report any bugs on https://github.com/LetsTimeIt/DungeonTools/issues"] = ""--]]
 L["Polymorph"] = "Polimorfia"
 L["Portal Guardian"] = "Guardião de Portal"
 --[[Translation missing --]]

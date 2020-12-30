@@ -640,8 +640,8 @@ L["plaguefallDevotedNote"] = "Чумные прислужники которые
 L["Plagueroc"] = "Чумной рух"
 L["Plain Texture"] = "Чистая текстура "
 L["Players can join the live session by either clicking this button or the Live Session chat link"] = "Игроки могут присоединиться к совместному сеансу нажав на эту кнопку или на ссылку совместного сеанса в чате"
-L["Please report any bugs on https://github.com/Tomslack/ManbabyDungeonTools/issues"] = [=[Пожалуйста сообщайте об ошибках здесь
-https://github.com/Tomslack/ManbabyDungeonTools/issues]=]
+L["Please report any bugs on https://github.com/LetsTimeIt/DungeonTools/issues"] = [=[Пожалуйста сообщайте об ошибках здесь
+https://github.com/LetsTimeIt/DungeonTools/issues]=]
 L["Polymorph"] = "Превращение"
 L["Portal Guardian"] = "Страж портала"
 L["Portrait"] = "Портрет"
